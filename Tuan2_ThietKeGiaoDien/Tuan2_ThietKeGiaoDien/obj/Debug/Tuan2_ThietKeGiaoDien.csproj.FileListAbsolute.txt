@@ -1,0 +1,14 @@
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\bin\Debug\Tuan2_ThietKeGiaoDien.exe.config
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\bin\Debug\Tuan2_ThietKeGiaoDien.exe
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\bin\Debug\Tuan2_ThietKeGiaoDien.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\obj\Debug\Tuan2_ThietKeGiaoDien.csproj.AssemblyReference.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\obj\Debug\Tuan2_ThietKeGiaoDien.frmLogin.resources
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\obj\Debug\Tuan2_ThietKeGiaoDien.frmMain.resources
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\obj\Debug\Tuan2_ThietKeGiaoDien.Properties.Resources.resources
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\obj\Debug\Tuan2_ThietKeGiaoDien.csproj.GenerateResource.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\obj\Debug\Tuan2_ThietKeGiaoDien.csproj.CoreCompileInputs.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\obj\Debug\Tuan2_ThietKeGiaoDien.exe
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\obj\Debug\Tuan2_ThietKeGiaoDien.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\bin\Debug\ThietKeControls.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\bin\Debug\ThietKeControls.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\Tuan2_ThietKeGiaoDien\obj\Debug\Tuan2_Th.4F0F69E0.Up2Date

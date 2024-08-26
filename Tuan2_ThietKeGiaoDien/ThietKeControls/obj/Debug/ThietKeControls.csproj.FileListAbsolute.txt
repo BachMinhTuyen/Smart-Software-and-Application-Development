@@ -1,0 +1,6 @@
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\ThietKeControls\bin\Debug\ThietKeControls.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\ThietKeControls\bin\Debug\ThietKeControls.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\ThietKeControls\obj\Debug\ThietKeControls.csproj.AssemblyReference.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\ThietKeControls\obj\Debug\ThietKeControls.csproj.CoreCompileInputs.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\ThietKeControls\obj\Debug\ThietKeControls.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan2_ThietKeGiaoDien\ThietKeControls\obj\Debug\ThietKeControls.pdb
