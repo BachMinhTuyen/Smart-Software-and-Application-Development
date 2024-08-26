@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58288838-5267-42BC-B37E-CCE524104EDE}|Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien.csproj|d:\\huit\\hk7\\phattrienungdungthongminh\\tuan1_thietkegiaodien\\tuan1_thietkegiaodien\\tuan1_thietkegiaodien\\handle_textbox_dequy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58288838-5267-42BC-B37E-CCE524104EDE}|Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien.csproj|solutionrelative:tuan1_thietkegiaodien\\handle_textbox_dequy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58288838-5267-42BC-B37E-CCE524104EDE}|Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien.csproj|d:\\huit\\hk7\\phattrienungdungthongminh\\tuan1_thietkegiaodien\\tuan1_thietkegiaodien\\tuan1_thietkegiaodien\\handle_textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58288838-5267-42BC-B37E-CCE524104EDE}|Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien.csproj|solutionrelative:tuan1_thietkegiaodien\\handle_textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58288838-5267-42BC-B37E-CCE524104EDE}|Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien.csproj|d:\\huit\\hk7\\phattrienungdungthongminh\\tuan1_thietkegiaodien\\tuan1_thietkegiaodien\\tuan1_thietkegiaodien\\textboxes_dequy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58288838-5267-42BC-B37E-CCE524104EDE}|Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien.csproj|solutionrelative:tuan1_thietkegiaodien\\textboxes_dequy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58288838-5267-42BC-B37E-CCE524104EDE}|Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien.csproj|d:\\huit\\hk7\\phattrienungdungthongminh\\tuan1_thietkegiaodien\\tuan1_thietkegiaodien\\tuan1_thietkegiaodien\\textboxes_dequy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58288838-5267-42BC-B37E-CCE524104EDE}|Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien.csproj|solutionrelative:tuan1_thietkegiaodien\\textboxes_dequy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58288838-5267-42BC-B37E-CCE524104EDE}|Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien.csproj|D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\tuan1_thietkegiaodien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58288838-5267-42BC-B37E-CCE524104EDE}|Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien.csproj|solutionrelative:tuan1_thietkegiaodien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Handle_TextBox_DeQuy.cs",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Handle_TextBox_DeQuy.cs",
+              "RelativeDocumentMoniker": "Tuan1_ThietKeGiaoDien\\Handle_TextBox_DeQuy.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Handle_TextBox_DeQuy.cs",
+              "RelativeToolTip": "Tuan1_ThietKeGiaoDien\\Handle_TextBox_DeQuy.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:33:07.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Handle_TextBox.cs",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Handle_TextBox.cs",
+              "RelativeDocumentMoniker": "Tuan1_ThietKeGiaoDien\\Handle_TextBox.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Handle_TextBox.cs",
+              "RelativeToolTip": "Tuan1_ThietKeGiaoDien\\Handle_TextBox.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:32:29.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextBoxes_DeQuy.cs",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\TextBoxes_DeQuy.cs",
+              "RelativeDocumentMoniker": "Tuan1_ThietKeGiaoDien\\TextBoxes_DeQuy.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\TextBoxes_DeQuy.cs",
+              "RelativeToolTip": "Tuan1_ThietKeGiaoDien\\TextBoxes_DeQuy.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:32:11.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextBoxes_DeQuy.cs [Design]",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\TextBoxes_DeQuy.cs",
+              "RelativeDocumentMoniker": "Tuan1_ThietKeGiaoDien\\TextBoxes_DeQuy.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\TextBoxes_DeQuy.cs [Design]",
+              "RelativeToolTip": "Tuan1_ThietKeGiaoDien\\TextBoxes_DeQuy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:31:51.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Program.cs",
+              "RelativeDocumentMoniker": "Tuan1_ThietKeGiaoDien\\Program.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Tuan1_ThietKeGiaoDien\\Program.cs",
+              "RelativeToolTip": "Tuan1_ThietKeGiaoDien\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:21:37.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
