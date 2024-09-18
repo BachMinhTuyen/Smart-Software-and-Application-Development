@@ -1,0 +1,11 @@
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\Module_ConfigServer\obj\Debug\Module_ConfigServer.csproj.AssemblyReference.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\Module_ConfigServer\obj\Debug\Module_ConfigServer.Module_ConfigServer.resources
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\Module_ConfigServer\obj\Debug\Module_ConfigServer.csproj.GenerateResource.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\Module_ConfigServer\obj\Debug\Module_ConfigServer.csproj.CoreCompileInputs.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\Module_ConfigServer\bin\Debug\Module_ConfigServer.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\Module_ConfigServer\bin\Debug\Module_ConfigServer.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\Module_ConfigServer\bin\Debug\ClassLibrary.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\Module_ConfigServer\bin\Debug\ClassLibrary.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\Module_ConfigServer\obj\Debug\Module_C.94ACACB4.Up2Date
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\Module_ConfigServer\obj\Debug\Module_ConfigServer.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\Module_ConfigServer\obj\Debug\Module_ConfigServer.pdb

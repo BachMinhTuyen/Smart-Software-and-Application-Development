@@ -1,0 +1,10 @@
+E:\LuuDuLieuSinhVien\289_BachMinhTuyen\Tuan5_XayDungModule_UngDungDaTang\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\LuuDuLieuSinhVien\289_BachMinhTuyen\Tuan5_XayDungModule_UngDungDaTang\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\LuuDuLieuSinhVien\289_BachMinhTuyen\Tuan5_XayDungModule_UngDungDaTang\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\LuuDuLieuSinhVien\289_BachMinhTuyen\Tuan5_XayDungModule_UngDungDaTang\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\Tuan5_XayDungModule_UngDungDaTang\ClassLibrary\obj\Debug\ClassLibrary.pdb

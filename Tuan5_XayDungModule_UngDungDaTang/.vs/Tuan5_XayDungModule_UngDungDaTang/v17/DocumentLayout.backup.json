@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|d:\\huit\\hk7\\phattrienungdungthongminh\\tuan5_xaydungmodule_ungdungdatang\\tuan5_xaydungmodule_ungdungdatang\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|solutionrelative:tuan5_xaydungmodule_ungdungdatang\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Tuan5_XayDungModule_UngDungDaTang||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\tuan5_xaydungmodule_ungdungdatang\\frmconfigdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|solutionrelative:tuan5_xaydungmodule_ungdungdatang\\frmconfigdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\tuan5_xaydungmodule_ungdungdatang\\frmconfigdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|solutionrelative:tuan5_xaydungmodule_ungdungdatang\\frmconfigdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86455946-3D72-4A21-A8C5-6492619C6154}|Module_Login\\Module_Login.csproj|D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\module_login\\module_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86455946-3D72-4A21-A8C5-6492619C6154}|Module_Login\\Module_Login.csproj|solutionrelative:module_login\\module_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEB70D3-F700-45ED-BF73-85DD7C075D23}|Module_ConfigServer\\Module_ConfigServer.csproj|D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\module_configserver\\module_configserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEB70D3-F700-45ED-BF73-85DD7C075D23}|Module_ConfigServer\\Module_ConfigServer.csproj|solutionrelative:module_configserver\\module_configserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\tuan5_xaydungmodule_ungdungdatang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|solutionrelative:tuan5_xaydungmodule_ungdungdatang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\tuan5_xaydungmodule_ungdungdatang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|solutionrelative:tuan5_xaydungmodule_ungdungdatang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEB70D3-F700-45ED-BF73-85DD7C075D23}|Module_ConfigServer\\Module_ConfigServer.csproj|d:\\huit\\hk7\\phattrienungdungthongminh\\tuan5_xaydungmodule_ungdungdatang\\module_configserver\\module_configserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EEB70D3-F700-45ED-BF73-85DD7C075D23}|Module_ConfigServer\\Module_ConfigServer.csproj|solutionrelative:module_configserver\\module_configserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\tuan5_xaydungmodule_ungdungdatang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|solutionrelative:tuan5_xaydungmodule_ungdungdatang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50005178-1B54-4C29-83F0-1A15370B0651}|ClassLibrary\\ClassLibrary.csproj|D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\classlibrary\\ql_nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50005178-1B54-4C29-83F0-1A15370B0651}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\ql_nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\tuan5_xaydungmodule_ungdungdatang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|solutionrelative:tuan5_xaydungmodule_ungdungdatang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|d:\\huit\\hk7\\phattrienungdungthongminh\\tuan5_xaydungmodule_ungdungdatang\\tuan5_xaydungmodule_ungdungdatang\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{6F546719-70D0-404A-ACCB-F24EB496D10D}|Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj|solutionrelative:tuan5_xaydungmodule_ungdungdatang\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Module_ConfigServer.cs [Design]",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Module_ConfigServer\\Module_ConfigServer.cs",
+              "RelativeDocumentMoniker": "Module_ConfigServer\\Module_ConfigServer.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Module_ConfigServer\\Module_ConfigServer.cs [Design]",
+              "RelativeToolTip": "Module_ConfigServer\\Module_ConfigServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:29:22.17Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tuan5_XayDungModule_UngDungDaTang",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj",
+              "RelativeDocumentMoniker": "Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj",
+              "RelativeToolTip": "Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-15T17:53:15.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Tuan5_XayDungModule_UngDungDaTang\\frmLogin.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\frmLogin.cs",
+              "RelativeToolTip": "Tuan5_XayDungModule_UngDungDaTang\\frmLogin.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAMwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:27:42.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmConfigDB.cs",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\frmConfigDB.cs",
+              "RelativeDocumentMoniker": "Tuan5_XayDungModule_UngDungDaTang\\frmConfigDB.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\frmConfigDB.cs",
+              "RelativeToolTip": "Tuan5_XayDungModule_UngDungDaTang\\frmConfigDB.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIA2wCoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:50:17.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Module_Login.cs",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Module_Login\\Module_Login.cs",
+              "RelativeDocumentMoniker": "Module_Login\\Module_Login.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Module_Login\\Module_Login.cs",
+              "RelativeToolTip": "Module_Login\\Module_Login.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAWwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:20:38.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmConfigDB.cs [Design]",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\frmConfigDB.cs",
+              "RelativeDocumentMoniker": "Tuan5_XayDungModule_UngDungDaTang\\frmConfigDB.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\frmConfigDB.cs [Design]",
+              "RelativeToolTip": "Tuan5_XayDungModule_UngDungDaTang\\frmConfigDB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:26:02.48Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\frmMain.cs",
+              "RelativeDocumentMoniker": "Tuan5_XayDungModule_UngDungDaTang\\frmMain.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\frmMain.cs [Design]",
+              "RelativeToolTip": "Tuan5_XayDungModule_UngDungDaTang\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:32:23.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Module_ConfigServer.cs",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Module_ConfigServer\\Module_ConfigServer.cs",
+              "RelativeDocumentMoniker": "Module_ConfigServer\\Module_ConfigServer.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Module_ConfigServer\\Module_ConfigServer.cs",
+              "RelativeToolTip": "Module_ConfigServer\\Module_ConfigServer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:27:15.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\App.config",
+              "RelativeDocumentMoniker": "Tuan5_XayDungModule_UngDungDaTang\\App.config",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\App.config",
+              "RelativeToolTip": "Tuan5_XayDungModule_UngDungDaTang\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-15T18:04:27.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QL_NguoiDung.cs",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\ClassLibrary\\QL_NguoiDung.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\QL_NguoiDung.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\ClassLibrary\\QL_NguoiDung.cs",
+              "RelativeToolTip": "ClassLibrary\\QL_NguoiDung.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwD8AAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:58:35.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\frmMain.cs",
+              "RelativeDocumentMoniker": "Tuan5_XayDungModule_UngDungDaTang\\frmMain.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\frmMain.cs",
+              "RelativeToolTip": "Tuan5_XayDungModule_UngDungDaTang\\frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:32:41.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\Program.cs",
+              "RelativeDocumentMoniker": "Tuan5_XayDungModule_UngDungDaTang\\Program.cs",
+              "ToolTip": "D:\\HUIT\\HK7\\PhatTrienUngDungThongMinh\\Tuan5_XayDungModule_UngDungDaTang\\Tuan5_XayDungModule_UngDungDaTang\\Program.cs",
+              "RelativeToolTip": "Tuan5_XayDungModule_UngDungDaTang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:48:43.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
