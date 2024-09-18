@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTap_XayDungModule_UngDungDaTang", "OnTap_XayDungModule_UngDungDaTang\OnTap_XayDungModule_UngDungDaTang.csproj", "{DCBA91E5-2971-417B-82E5-FAF1C97B438F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThietKeForms", "ThietKeForms\ThietKeForms.csproj", "{653013DD-4459-45CA-B169-B5A41EA5DA42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThuVien", "ThuVien\ThuVien.csproj", "{05BE4FF3-D17F-44CF-89D7-BFBB3B0DE80C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_DongHo", "Module_DongHo\Module_DongHo.csproj", "{AB6824D5-EE97-4EC9-8D52-F0AACF52AA91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_DongHoBamGio", "Module_DongHoBamGio\Module_DongHoBamGio.csproj", "{4A8909BE-CFBE-425F-A3CF-8B1A14F064C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_DongHoDemNguoc", "Module_DongHoDemNguoc\Module_DongHoDemNguoc.csproj", "{B57A96A1-C382-4CAA-B628-5A0CDA688EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBA91E5-2971-417B-82E5-FAF1C97B438F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBA91E5-2971-417B-82E5-FAF1C97B438F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBA91E5-2971-417B-82E5-FAF1C97B438F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBA91E5-2971-417B-82E5-FAF1C97B438F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653013DD-4459-45CA-B169-B5A41EA5DA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653013DD-4459-45CA-B169-B5A41EA5DA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653013DD-4459-45CA-B169-B5A41EA5DA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653013DD-4459-45CA-B169-B5A41EA5DA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BE4FF3-D17F-44CF-89D7-BFBB3B0DE80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BE4FF3-D17F-44CF-89D7-BFBB3B0DE80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BE4FF3-D17F-44CF-89D7-BFBB3B0DE80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BE4FF3-D17F-44CF-89D7-BFBB3B0DE80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB6824D5-EE97-4EC9-8D52-F0AACF52AA91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6824D5-EE97-4EC9-8D52-F0AACF52AA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6824D5-EE97-4EC9-8D52-F0AACF52AA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6824D5-EE97-4EC9-8D52-F0AACF52AA91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A8909BE-CFBE-425F-A3CF-8B1A14F064C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8909BE-CFBE-425F-A3CF-8B1A14F064C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8909BE-CFBE-425F-A3CF-8B1A14F064C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8909BE-CFBE-425F-A3CF-8B1A14F064C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57A96A1-C382-4CAA-B628-5A0CDA688EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57A96A1-C382-4CAA-B628-5A0CDA688EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57A96A1-C382-4CAA-B628-5A0CDA688EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57A96A1-C382-4CAA-B628-5A0CDA688EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54E10DC3-0FAA-485E-A854-F8D9C755B959}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\ThietKeForms\obj\Debug\ThietKeForms.csproj.AssemblyReference.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\ThietKeForms\obj\Debug\ThietKeForms.csproj.CoreCompileInputs.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\ThietKeForms\bin\Debug\ThietKeForms.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\ThietKeForms\bin\Debug\ThietKeForms.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\ThietKeForms\obj\Debug\ThietKeForms.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\ThietKeForms\obj\Debug\ThietKeForms.pdb

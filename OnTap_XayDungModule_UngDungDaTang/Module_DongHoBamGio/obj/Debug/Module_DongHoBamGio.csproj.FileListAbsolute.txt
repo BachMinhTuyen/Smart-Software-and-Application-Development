@@ -1,0 +1,8 @@
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\Module_DongHoBamGio\bin\Debug\Module_DongHoBamGio.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\Module_DongHoBamGio\bin\Debug\Module_DongHoBamGio.pdb
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\Module_DongHoBamGio\obj\Debug\Module_DongHoBamGio.csproj.AssemblyReference.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\Module_DongHoBamGio\obj\Debug\Module_DongHoBamGio.Module_DongHoBamGio.resources
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\Module_DongHoBamGio\obj\Debug\Module_DongHoBamGio.csproj.GenerateResource.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\Module_DongHoBamGio\obj\Debug\Module_DongHoBamGio.csproj.CoreCompileInputs.cache
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\Module_DongHoBamGio\obj\Debug\Module_DongHoBamGio.dll
+D:\HUIT\HK7\PhatTrienUngDungThongMinh\OnTap_XayDungModule_UngDungDaTang\Module_DongHoBamGio\obj\Debug\Module_DongHoBamGio.pdb
